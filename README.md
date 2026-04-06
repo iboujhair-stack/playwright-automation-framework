@@ -25,7 +25,7 @@ built with Playwright and TypeScript.
 ├── playwright.config.ts
 └── package.json
 
-## ✅ Features
+## Features
 
 - Page Object Model architecture
 - Custom fixtures
@@ -34,7 +34,7 @@ built with Playwright and TypeScript.
 - CI/CD with GitHub Actions
 - Allure reporting
 
-## 🚀 Getting Started
+## ✅ Getting Started
 
 ### Prerequisites
 - Node.js >= 18
@@ -70,6 +70,6 @@ npx allure serve allure-results
 
 ## 👤 Author
 
-**Oussama** - QA Automation Engineer
+**Imad** - QA Automation Engineer
 - GitHub: [@iboujhair-stack](https://github.com/iboujhair-stack)
 - LinkedIn: [your-linkedin-url]
